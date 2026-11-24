@@ -1,3 +1,3 @@
-# Today-I-Learne
+# Today-I-Learned
 
 プログラミングスクールの教材などで学んだことを記録していくリポジトリです。
