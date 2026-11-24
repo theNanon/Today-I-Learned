@@ -1,2 +1,3 @@
 # Today-I-Learned
-Daily learning records
+
+プログラミングスクールの教材などで学んだことを記録していくリポジトリです。
